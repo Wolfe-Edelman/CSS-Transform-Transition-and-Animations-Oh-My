@@ -1,3 +1,5 @@
 main {
-
+    Transform: skew(-10deg, -10deg) translate(20px)
 }
+
+/*Having some trouble making left border a 180 degree vertical line*/
